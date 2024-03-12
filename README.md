@@ -1,73 +1,62 @@
-<h1 align="center"><img src="https://www.gluster.org/wp-content/uploads/2016/03/gluster-ant.png" width="320" alt="Gluster is a free and open source software scalable network filesystem."></h1>
-
-<h4 align="center">
-    <a href="https://gluster.slack.com/"><img src=https://img.shields.io/badge/CHATON-SLACK-green></a> 
-    <a href="https://www.youtube.com/playlist?list=PLUjCssFKEMhXBqPAGtOA1lYtzS1eWaJuN"><img src=https://img.shields.io/badge/DEV%20SESSIONS-YOUTUBE-red></a> 
-    <a href="https://twitter.com/gluster"><img src=https://img.shields.io/badge/FOLLOW-ON%20TWITTER-blue></a><br/><br/>
-    <a href="https://docs.gluster.org/en/latest/Quick-Start-Guide/Quickstart/"><img src=https://img.shields.io/badge/%20%20-Quick%20Start%20Guide-yellowgreen?style=for-the-badge></a> 
-    <a href="https://docs.gluster.org/en/latest/release-notes/"><img src=https://img.shields.io/badge/%20%20-Release%20Notes-%2341EDF5?style=for-the-badge></a> 
-    <a href="https://lists.gluster.org/mailman/listinfo"><img src=https://img.shields.io/badge/%20%20-Mailing%20List-%23F59E41?style=for-the-badge></a> 
-    <a href="https://www.gluster.org/community/"><img src=https://img.shields.io/badge/%20-COMMUNITY-%237D41F5?style=for-the-badge></a><br/><br/>
-    <a href="https://docs.gluster.org/en/latest/Contributors-Guide/Index/"><img src=https://readme-typing-svg.herokuapp.com?color=%23000000&size=32&center=true&width=600&lines=Contribute+to+Gluster></a>
-</h4>
-
-
----
-
-<p align="left">
-    <a href="https://github.com/gluster/Gluster-Builds/actions"><img src="https://github.com/gluster/Gluster-Builds/actions/workflows/Nightly_Build_Fedora_Latest.yml/badge.svg" alt="Build Status"></a>
-    <a href="https://github.com/gluster/Gluster-Builds/actions"> <img src="https://github.com/gluster/Gluster-Builds/actions/workflows/Nightly_Build_Centos7.yml/badge.svg" alt="Coverage Status"></a>
-    <a href="https://github.com/gluster/Gluster-Builds/actions"><img src="https://github.com/gluster/Gluster-Builds/actions/workflows/Nightly_Build_Centos8.yml/badge.svg"></a>
-    <a href="https://github.com/gluster/Gluster-Builds/actions"><img src="https://github.com/gluster/Gluster-Builds/actions/workflows/nightly-build-debian.yml/badge.svg"></a>
-    <a href="https://github.com/gluster/Gluster-Builds/actions"><img src="https://github.com/gluster/Gluster-Builds/actions/workflows/nightly-build-ubuntu.yml/badge.svg"></a>
-    <a href="https://ci.centos.org/view/Gluster/job/gluster_build-rpms/"><img src="https://ci.centos.org/buildStatus/icon?job=gluster_build-rpms"></a>
-    <a href="https://scan.coverity.com/projects/gluster-glusterfs"><img src="https://scan.coverity.com/projects/987/badge.svg"></a>
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 align="center" tabindex="-1" class="heading-element" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6d8481b20b71492b1518b75c329448b8974ddbf0eef0f72372b62460d32952c4/68747470733a2f2f7777772e676c75737465722e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f30332f676c75737465722d616e742e706e67"><img src="https://camo.githubusercontent.com/6d8481b20b71492b1518b75c329448b8974ddbf0eef0f72372b62460d32952c4/68747470733a2f2f7777772e676c75737465722e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f30332f676c75737465722d616e742e706e67" width="320" alt="Gluster 是一个免费的开源软件可扩展网络文件系统。" data-canonical-src="https://www.gluster.org/wp-content/uploads/2016/03/gluster-ant.png" style="max-width: 100%;"></a></h1><a id="" class="anchor" aria-label="永久链接：" href="#"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h4 align="center" tabindex="-1" class="heading-element" dir="auto">
+    <a href="https://gluster.slack.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/ac084bc6386a94fc84c368643bbd63c93d88bb810e96e721e7289c6bd41bfd5d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f434841544f4e2d534c41434b2d677265656e" data-canonical-src="https://img.shields.io/badge/CHATON-SLACK-green" style="max-width: 100%;"></a> 
+    <a href="https://www.youtube.com/playlist?list=PLUjCssFKEMhXBqPAGtOA1lYtzS1eWaJuN" rel="nofollow"><img src="https://camo.githubusercontent.com/0aa4e497fa2831c2477609005380f159216cb3eed4ff925f58c99a6e367d0135/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f44455625323053455353494f4e532d594f55545542452d726564" data-canonical-src="https://img.shields.io/badge/DEV%20SESSIONS-YOUTUBE-red" style="max-width: 100%;"></a> 
+    <a href="https://twitter.com/gluster" rel="nofollow"><img src="https://camo.githubusercontent.com/d10ece68f9b72484dce7a607dbf071a57dff0e9b4dabf388f937b2340aadc541/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f464f4c4c4f572d4f4e253230545749545445522d626c7565" data-canonical-src="https://img.shields.io/badge/FOLLOW-ON%20TWITTER-blue" style="max-width: 100%;"></a><br><br>
+    <a href="https://docs.gluster.org/en/latest/Quick-Start-Guide/Quickstart/" rel="nofollow"><img src="https://camo.githubusercontent.com/314eb82cd899bfafac544ae07120aa539c06807487503c434442b05471b891bd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302532302d517569636b253230537461727425323047756964652d79656c6c6f77677265656e3f7374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/%20%20-Quick%20Start%20Guide-yellowgreen?style=for-the-badge" style="max-width: 100%;"></a> 
+    <a href="https://docs.gluster.org/en/latest/release-notes/" rel="nofollow"><img src="https://camo.githubusercontent.com/4dad55624a7fe8c610d6e5b460f72c1d8f3e137e801dc914eed91b6bcfcf41d5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302532302d52656c656173652532304e6f7465732d2532333431454446353f7374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/%20%20-Release%20Notes-%2341EDF5?style=for-the-badge" style="max-width: 100%;"></a> 
+    <a href="https://lists.gluster.org/mailman/listinfo" rel="nofollow"><img src="https://camo.githubusercontent.com/ad18b2081c69dd89f8e8bd1f39564c3a5c14be9d7058f105bbd4ebe886472963/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302532302d4d61696c696e672532304c6973742d2532334635394534313f7374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/%20%20-Mailing%20List-%23F59E41?style=for-the-badge" style="max-width: 100%;"></a> 
+    <a href="https://www.gluster.org/community/" rel="nofollow"><img src="https://camo.githubusercontent.com/ca46f77e27fd16c720d38bb8c6af70b7da6758115c52f1934d87f49ffbbb186f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d434f4d4d554e4954592d2532333744343146353f7374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/%20-COMMUNITY-%237D41F5?style=for-the-badge" style="max-width: 100%;"></a><br><br>
+    <a href="https://docs.gluster.org/en/latest/Contributors-Guide/Index/" rel="nofollow"><img src="https://camo.githubusercontent.com/3b587a0c1abfd2e732e8f460d1b7f60ea5ad02937b3228f2913fe7717f5514d3/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d2532333030303030302673697a653d33322663656e7465723d747275652677696474683d363030266c696e65733d436f6e747269627574652b746f2b476c7573746572" data-canonical-src="https://readme-typing-svg.herokuapp.com?color=%23000000&amp;size=32&amp;center=true&amp;width=600&amp;lines=Contribute+to+Gluster" style="max-width: 100%;"></a>
+</h4><a id="user-content--------------------------------------" class="anchor" aria-label="永久链接：" href="#-------------------------------------"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<hr>
+<p align="left" dir="auto">
+    <a href="https://github.com/gluster/Gluster-Builds/actions"><img src="https://github.com/gluster/Gluster-Builds/actions/workflows/Nightly_Build_Fedora_Latest.yml/badge.svg" alt="构建状态" style="max-width: 100%;"></a>
+    <a href="https://github.com/gluster/Gluster-Builds/actions"> <img src="https://github.com/gluster/Gluster-Builds/actions/workflows/Nightly_Build_Centos7.yml/badge.svg" alt="覆盖状态" style="max-width: 100%;"></a>
+    <a href="https://github.com/gluster/Gluster-Builds/actions"><img src="https://github.com/gluster/Gluster-Builds/actions/workflows/Nightly_Build_Centos8.yml/badge.svg" style="max-width: 100%;"></a>
+    <a href="https://github.com/gluster/Gluster-Builds/actions"><img src="https://github.com/gluster/Gluster-Builds/actions/workflows/nightly-build-debian.yml/badge.svg" style="max-width: 100%;"></a>
+    <a href="https://github.com/gluster/Gluster-Builds/actions"><img src="https://github.com/gluster/Gluster-Builds/actions/workflows/nightly-build-ubuntu.yml/badge.svg" style="max-width: 100%;"></a>
+    <a href="https://ci.centos.org/view/Gluster/job/gluster_build-rpms/" rel="nofollow"><img src="https://camo.githubusercontent.com/00eebf625806d6329e913d6a85388f8bbf6f50454fac8982c7b4d2b804728031/68747470733a2f2f63692e63656e746f732e6f72672f6275696c645374617475732f69636f6e3f6a6f623d676c75737465725f6275696c642d72706d73" data-canonical-src="https://ci.centos.org/buildStatus/icon?job=gluster_build-rpms" style="max-width: 100%;"></a>
+    <a href="https://scan.coverity.com/projects/gluster-glusterfs" rel="nofollow"><img src="https://camo.githubusercontent.com/db197eaf139ff4b80aead18b28671a03051f004c944675f551a6d8d6060cc243/68747470733a2f2f7363616e2e636f7665726974792e636f6d2f70726f6a656374732f3938372f62616467652e737667" data-canonical-src="https://scan.coverity.com/projects/987/badge.svg" style="max-width: 100%;"></a>
  </p>
-
-
-# Gluster
-  Gluster is a software defined distributed storage that can scale to several
-  petabytes. It provides interfaces for object, block and file storage.
-
-## Development
-  The development workflow is documented in [Contributors guide](CONTRIBUTING.md)
-
-## Documentation
-  The Gluster documentation can be found at [Gluster Docs](http://docs.gluster.org).
-
-## Deployment
-  Quick instructions to build and install can be found in [INSTALL](INSTALL) file.
-
-## Testing
-
-  GlusterFS source contains some functional tests under `tests/` directory. All
-  these tests are run against every patch submitted for review. If you want your
-  patch to be tested, please add a `.t` test file as part of your patch submission.
-  You can also submit a patch to only add a `.t` file for the test case you are
-  aware of.
-
-  To run these tests, on your test-machine, just run `./run-tests.sh`. Don't run
-  this on a machine where you have 'production' glusterfs is running, as it would
-  blindly kill all gluster processes in each runs.
-
-  If you are sending a patch, and want to validate one or few specific tests, then
-  run a single test by running the below command.
-
-```
-  bash# /bin/bash ${path_to_gluster}/tests/basic/rpc-coverage.t
-```
-
-  You can also use `prove` tool if available in your machine, as follows.
-
-```
-  bash# prove -vmfe '/bin/bash' ${path_to_gluster}/tests/basic/rpc-coverage.t
-```
-
-
-## Maintainers
-  The list of Gluster maintainers is available in [MAINTAINERS](MAINTAINERS) file.
-
-## License
-  Gluster is dual licensed under [GPLV2](COPYING-GPLV2) and [LGPLV3+](COPYING-LGPLV3).
-
-  Please visit the [Gluster Home Page](http://www.gluster.org/) to find out more about Gluster.
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">格鲁斯特</font></font></h1><a id="user-content-gluster" class="anchor" aria-label="永久链接： 光泽" href="#gluster"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Gluster 是一种软件定义的分布式存储，可以扩展到数 PB。</font><font style="vertical-align: inherit;">它提供对象、块和文件存储的接口。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">发展</font></font></h2><a id="user-content-development" class="anchor" aria-label="永久链接： 发展" href="#development"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发工作流程记录在</font></font><a href="/gluster/glusterfs/blob/devel/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献者指南中</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></h2><a id="user-content-documentation" class="anchor" aria-label="永久链接：文档" href="#documentation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="http://docs.gluster.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Gluster 文档可以在Gluster Docs</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中找到</font><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">部署</font></font></h2><a id="user-content-deployment" class="anchor" aria-label="永久链接：部署" href="#deployment"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="/gluster/glusterfs/blob/devel/INSTALL"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">构建和安装的快速说明可以在INSTALL</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件中找到</font><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">测试</font></font></h2><a id="user-content-testing" class="anchor" aria-label="永久链接：测试" href="#testing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GlusterFS 源码目录下包含一些功能测试</font></font><code>tests/</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">所有这些测试都会针对提交审核的每个补丁进行。</font><font style="vertical-align: inherit;">如果您希望测试您的补丁，请添加</font></font><code>.t</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">测试文件作为补丁提交的一部分。</font><font style="vertical-align: inherit;">您还可以提交补丁以仅添加</font></font><code>.t</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您知道的测试用例的文件。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要运行这些测试，在您的测试机器上，只需运行</font></font><code>./run-tests.sh</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">. </font><font style="vertical-align: inherit;">不要在运行“生产”glusterfs 的机器上运行它，因为它会在每次运行中盲目地杀死所有 gluster 进程。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您要发送补丁，并且想要验证一个或几个特定测试，请通过运行以下命令来运行单个测试。</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>  bash# /bin/bash ${path_to_gluster}/tests/basic/rpc-coverage.t
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="  bash# /bin/bash ${path_to_gluster}/tests/basic/rpc-coverage.t" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您的机器中有可用的工具，您还可以使用</font></font><code>prove</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">工具，如下所示。</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>  bash# prove -vmfe '/bin/bash' ${path_to_gluster}/tests/basic/rpc-coverage.t
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="  bash# prove -vmfe '/bin/bash' ${path_to_gluster}/tests/basic/rpc-coverage.t" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">维护者</font></font></h2><a id="user-content-maintainers" class="anchor" aria-label="永久链接：维护者" href="#maintainers"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Gluster 维护者列表可在</font></font><a href="/gluster/glusterfs/blob/devel/MAINTAINERS"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MAINTAINERS</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件中找到。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h2><a id="user-content-license" class="anchor" aria-label="永久链接：许可证" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="/gluster/glusterfs/blob/devel/COPYING-GPLV2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Gluster 在GPLV2</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><a href="/gluster/glusterfs/blob/devel/COPYING-LGPLV3"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LGPLV3+</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下获得双重许可</font><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请访问</font></font><a href="http://www.gluster.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Gluster 主页</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以了解有关 Gluster 的更多信息。</font></font></p>
+</article></div>
